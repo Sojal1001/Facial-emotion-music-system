@@ -19,22 +19,6 @@ This project is a web-based application that uses **Facial Emotion Recognition**
 - Ngrok (optional for local exposure)
 - Jupyter Notebook compatible (optional)
 
-## 📦 Folder Structure
-
-/your-project-folder/
-│
-├── models/
-│ └── emotion_model.h5 # Trained CNN model for emotion detection
-│
-├── static/
-│ ├── style.css # Styling for the frontend
-│
-├── templates/
-│ └── index.html # Frontend UI
-│
-├── app.py # Main Flask application
-└── README.md # Project documentation
-
 ## 📌 Notes
 Spotify API supports only 30-second previews of songs.
 
