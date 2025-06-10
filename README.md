@@ -1,4 +1,3 @@
-# Facial-emotion-music-system
 # 🎧 Facial Emotion Recognition & Music Recommendation System
 
 This project is a web-based application that uses **Facial Emotion Recognition** through live webcam feed and recommends **Spotify music playlists** based on the detected emotion.
